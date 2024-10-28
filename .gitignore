@@ -1,0 +1,5 @@
+# Ignore Blender backups and temp files
+*.blend1
+*.blend2
+*.blend@
+*.temp
